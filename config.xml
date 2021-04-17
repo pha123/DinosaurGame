@@ -18,6 +18,7 @@
     </author>
 	<icon src="icon.png" />
 	<content src="index.html" />
+	<plugin name="org.apache.cordova.file" spec="0.2.3" source="pgb" />
 </widget>
 
  
