@@ -54,8 +54,6 @@
 <plugin name="cordova-plugin-splashscreen" source="npm"/>
 <plugin name="cordova-plugin-statusbar" source="npm"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
-<allow-intent target="_blank" target="_blank" href="http://*/*"/>
-<allow-intent target="_blank" target="_blank" href="https://*/*"/>
 <allow-intent href="tel:*"/>
 <allow-intent href="sms:*"/>
 <allow-intent href="mailto:*"/>
