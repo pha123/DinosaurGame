@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phavikas.game.dinosaurGame"
+        version   = "1.0.0">
+
+    <name>DinosaurGame</name>
+
+    <description>
+        DinosaurGame.
+    </description>
+
+    <author href="http://phonegap.com" email="phavikas@gmail.com">
+        PhaVikas
+    </author>
+	<icon src="icon.png"/>
+</widget>
+
+ 
+
